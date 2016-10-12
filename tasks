@@ -1,0 +1,53 @@
+d3js design patterns https://github.com/billautomata/d3js_design_patterns/blob/master/volume-1.md
+
+0. snippets and convetions
+	https://github.com/1wheel/d3-starterkit
+1. transition beetween two types of vis's
+	http://bl.ocks.org/tswast/4390054 <-> multiline2stackedarea
+	http://bl.ocks.org/jonsadka/482005612916b3f5e408 - changing lines
+	http://bl.ocks.org/fryford/2925ecf70ac9d9b51031 - animating growth of line
+
+2. multiple graphs on one scene - hiding and showing
+3. layers of svg objects
+4. responsivness - https://github.com/twitter/d3kit
+5. small multiples
+	http://bl.ocks.org/enjalot/53e87dbe009dc3f673b4	
+6. zooming
+	https://gist.github.com/plandem/5683951
+
+linux performance track https://github.com/Etsukata/d3js_trace
+
+d3js export - https://github.com/agordon/d3export_demo
+
+
+
+
+
+
+http://ux.stackexchange.com/questions/tagged/info-visualisation?sort=votes&pageSize=15
+http://ux.stackexchange.com/questions/79565/does-visual-design-really-affect-ux
+
+
+https://github.com/d3/d3/wiki/Tutorials
+
+
+https://github.com/visfest/topics2015/wiki/Session-4A:-So-you-want-to-do-vis-for-a-living%3F
+
+
+kurs: http://journalismcourses.org/D3.html
+
+inkscape skatches/mockup:
+	http://christopheviau.com/d3_tutorial/d3_inkscape/
+
+plugins: https://github.com/d3/d3/wiki/Plugins
+		https://github.com/gka/d3-jetpack
+
+interakcija
+	http://bl.ocks.org/mbostock/1341021
+	http://mbostock.github.io/d3/talk/20111116/iris-splom.html
+
+
+
+http://www.cvast.tuwien.ac.at/ - fax
+https://www.authorea.com/featured_templates
+
