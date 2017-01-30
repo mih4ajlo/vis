@@ -63,3 +63,4 @@ gis - convert svg to geojson:
 	http://gis.stackexchange.com/questions/30559/how-to-compute-parameters-for-qgis-affine-transformation?lq=1
 	
 serbia geojson - http://alas.matf.bg.ac.rs/~mi09109/sr_kos_regional.html	
+http://leafletjs.com/examples/choropleth/
