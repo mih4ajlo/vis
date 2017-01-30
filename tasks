@@ -56,3 +56,8 @@ export svg to gif:
 	https://bl.ocks.org/veltman/1071413ad6b5b542a1a3
 usage of api calls (authors)
 	http://bl.ocks.org/redblobgames/724411560f4796c90f6e9a0e9405d802
+
+
+
+gis - convert svg to geojson:
+	http://gis.stackexchange.com/questions/30559/how-to-compute-parameters-for-qgis-affine-transformation?lq=1
